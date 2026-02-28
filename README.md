@@ -3,7 +3,7 @@
 A turn-based Pokemon battle simulator built in Python using Tkinter, featuring a full type effectiveness system, animated health and XP bars, a stat-based damage formula, and a letter-by-letter text engine.
 
 ---
-
+ 
 ## Overview
 
 This is the second version of the Pokemon Simulator, rebuilt from the ground up to be significantly more efficient than the original. Where the first version relied on hardcoded stats, a rigid save system, and repeated logic across functions, this version introduces a proper stat array system, a reusable type effectiveness function, and a generalised damage formula that handles normal, special, and status moves through a single calculation path.
